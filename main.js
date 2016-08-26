@@ -6,3 +6,5 @@ var world = function (){
 var hello= function(){
   console.log("hello");	
 }
+
+console.log("moooo");
